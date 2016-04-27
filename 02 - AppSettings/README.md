@@ -1,6 +1,6 @@
 #AppSettings#
 
-**This has now been internalized and removed from public usage. To keep this functionality, please use another project of mine: https://github.com/kgiszewski/G42.SecureSettings**
+**NOTE for v1: This has been internalized and removed from public usage. To keep this functionality, please use another project of mine: https://github.com/kgiszewski/G42.SecureSettings**
 
 `AppSettings` is a way to have key/value pairs stored in a cache that can be edited in real-time.
 
