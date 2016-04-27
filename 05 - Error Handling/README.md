@@ -13,3 +13,6 @@ Set `G42.UmbracoGrease:ErrorEmailFrom` to an email address that the errors will 
 Set `G42.UmbracoGrease:ErrorEmailToCsv` to a CSV list of addresses that the errors will go to.
 
 Set `G42.UmbracoGrease:ErrorRedirectTo` to `~/server-error` or wherever you'd like the user to be directed to.
+
+##v1##
+In v1, email reporting was removed in favor of Slack reporting. All keys are now handled via a dashboard instead of the deprecated `AppSettings`.
